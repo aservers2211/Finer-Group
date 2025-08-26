@@ -1,3 +1,6 @@
+<div class="navbar">
+    <a href="#">Finer-Group</a>
+</div>
 <html lang="es">
 <head>
 <meta charset="utf-8" />
