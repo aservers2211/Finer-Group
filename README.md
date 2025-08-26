@@ -1,7 +1,6 @@
-header > h1, 
-header > a {
-  display: none !important;
-}
+---
+layout: null
+---
 <html lang="es">
 <head>
 <meta charset="utf-8" />
